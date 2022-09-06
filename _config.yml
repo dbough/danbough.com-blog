@@ -32,8 +32,10 @@ linkedin_username: dan-bough
 theme: minima
 permalink: /:title
 show_excerpts: true
-# plugins:
-#   - jekyll-feed
+show_drafts: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
