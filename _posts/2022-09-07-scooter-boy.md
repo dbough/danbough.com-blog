@@ -13,7 +13,7 @@ keywords:
   - mid-life crisis
 slug: scooter-boy
 ---
-"Scooter boy ... SCOOT SCOOT" I yell as I trot across the living room, raising my hand up and down like I was signaling to a truck driver to honk their horn.
+"Scooter boy ... SCOOT SCOOT" I yell as I trot across the living room, pumping my fist like I was asking a truck driver to honk their horn.
 
 I bought myself an electric scooter.  And with it I gave myself the moniker "Scooter Boy" who's apparent catch phrase is "SCOOT SCOOT".  My wife and kids roll their eyes.
 
