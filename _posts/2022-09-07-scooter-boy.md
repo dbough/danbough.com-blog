@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Scooter Boy
 description: A mild form of mid-life crisis.
 date: 2022-09-07T09:47:44.448Z
@@ -10,6 +11,7 @@ keywords:
   - fun
   - life
   - mid-life crisis
+slug: scooter-boy
 ---
 "Scooter boy ... SCOOT SCOOT" I yell as I trot across the living room, raising my hand up and down like I was signaling to a truck driver to honk their horn.
 

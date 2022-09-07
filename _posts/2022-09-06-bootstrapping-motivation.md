@@ -5,11 +5,12 @@ description: How to get motivated when you don't want to or have to.
 date: 2022-09-06T11:21:29.179Z
 preview: ""
 tags: ""
-categories: ""
+categories: life
 lastmod: 2022-09-06T20:56:25.525Z
 draft: true
 keywords:
   - life, motivation, burnout
+slug: bootstrapping-motivation
 ---
 My father had a stroke at the beginning of June.  He was the sole caretaker for my mother, who has Alzheimer's.  My family was thrown into a situation where we needed to step in as caretaker for both parents.  There were lots of things to figure out.
 
