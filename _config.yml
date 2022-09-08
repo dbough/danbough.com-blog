@@ -21,12 +21,14 @@
 title: Dan Writes
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
+  I needed a place to write.  This is it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.danbough.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Dan Bough
 twitter_username: thedanbough
 # github_username:  dbough
 # linkedin_username: dan-bough
+dan_bough_signature: "-- [Dan Bough](https://danbough.com)" 
 
 # Build settings
 theme: minima
@@ -45,7 +47,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -56,3 +58,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - about.markdown

@@ -7,7 +7,6 @@ preview: ""
 tags: ""
 categories: life
 lastmod: 2022-09-06T20:56:25.525Z
-draft: true
 keywords:
   - life, motivation, burnout
 slug: bootstrapping-motivation
