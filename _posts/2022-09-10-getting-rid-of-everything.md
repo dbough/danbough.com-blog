@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Getting Rid of Everything
-description: Get rid of everything that doesn't have a use and doesn't bring you joy.  Or else someone else will do it for you.
+description: Get rid of everything that doesn't have a use and doesn't bring you joy.  Or
+  else someone else will do it for you.
 date: 2022-09-10T20:47:26.322Z
 preview: ""
 tags: ""
 categories: life
 lastmod: 2022-09-10T20:47:26.323Z
 keywords: ""
+slug: rid
 ---
 This morning junk haulers came to my parents house.  They trashed about 90% of what was in the house.  The things that were left were momentos, things that we will keep with the house when it goes up for sale, and smaller things that we could manage to get rid of ourselves.
 
