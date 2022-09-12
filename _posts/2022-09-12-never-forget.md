@@ -1,13 +1,14 @@
 ---
-layout: "post"
+layout: post
 title: Never Forget
-description: ""
+description: September 11th was one of the most tragic days in US history.  Never forget.
 date: 2022-09-12T10:42:11.444Z
 preview: ""
 tags: ""
 categories: ""
 lastmod: 2022-09-12T10:42:11.444Z
 keywords: ""
+slug: forget
 ---
 Yesterday was the anniversary of one of the most tragic events in US history. It feels like so long ago.  Another lifetime.  At the same time the memories of what happened that day are still vivid.
 
