@@ -12,7 +12,7 @@ slug: don-fear-stop
 ---
 I've spent a lot of my life living in fear.  Fear that others will find out that I'm a fraud.  Fear that I'll look foolish or uncool for being really in to a thing.  It's stopped me from progressing down a path and in the way that I really wanted to.  For a long. Damn. Time.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s felt vulnerable to me to believe I could actually live out some of my bigger dreams and ideas. Perhaps a mix of 1) what it would mean if I failed and/or 2) some holdover conditioning of how “uncool” it is to try hard / care deeply. Getting over that is learned. And not easy.</p>&mdash; Justin Mezzell (🥃,🦉) (@JustinMezzell) <a href="https://twitter.com/JustinMezzell/status/1567469083079106562?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It’s felt vulnerable to me to believe I could actually live out some of my bigger dreams and ideas. Perhaps a mix of 1) what it would mean if I failed and/or 2) some holdover conditioning of how “uncool” it is to try hard / care deeply. Getting over that is learned. And not easy.</p>&mdash; Justin Mezzell (🥃,🦉) (@JustinMezzell) <a href="https://twitter.com/JustinMezzell/status/1567469083079106562?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This tweet came through my feed today.  It resonated.  Like a lot.  It sums up precisely how I've felt.  Even though I had no idea at the time. 
 
