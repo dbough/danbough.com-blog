@@ -17,4 +17,4 @@ While arguably some of this matters, it doesn't matter "right this second".  The
 
 And my normal Twitter feed.  What a useless mess that is.  I barely see posts from the people I actually follow (which, by the way, I recently took the time to pair down to only people I care to hear from.)  Its all advertisements in disguise ("98% of people that use Google don't know about these 10 tricks. -- a thread" ...".
 
-It's time to stop paying attention to things to don't matter.
+It's time to stop paying attention to things that don't matter.
