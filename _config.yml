@@ -30,6 +30,7 @@ twitter_username: thedanbough
 # linkedin_username: dan-bough
 google_analytics: G-L8Z6V0H420
 dan_bough_signature: "-- [Dan Bough](https://danbough.com)" 
+paginate: 5
 
 # Build settings
 theme: minima
@@ -39,6 +40,7 @@ show_drafts: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
